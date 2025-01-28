@@ -1,3 +1,5 @@
+## There is no Chinese version of Grafana so this version is translated into chinese.
+
 ![Grafana](docs/logo-horizontal.png)
 
 The open-source platform for monitoring and observability.
